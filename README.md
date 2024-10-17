@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Akash! I'm a passionate Software Development Engineer (SDE) 
+👋 Hi, I'm Akash! I'm an SDE currently pursuing my Masters from BITS pilani
 
 
 # 💻 Tech Stack:
