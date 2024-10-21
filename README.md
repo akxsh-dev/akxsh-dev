@@ -3,8 +3,13 @@
 
 # 💻 Tech Stack
 
+# 💻 Tech Stack
+
 ### Front-End
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Back-End
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -43,6 +48,7 @@
 
 ### Orchestration & Scheduling
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Luigi](https://img.shields.io/badge/Luigi-%2325A162.svg?style=for-the-badge)
 
 ### Data Integration & APIs
 ![RESTful API](https://img.shields.io/badge/RESTful%20API-%2300D09C.svg?style=for-the-badge)
